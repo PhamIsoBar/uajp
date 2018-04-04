@@ -1,2 +1,0 @@
-# uajp
-UAJP
